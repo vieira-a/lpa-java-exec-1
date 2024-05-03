@@ -1,4 +1,4 @@
-/*
+package lista2.lpa.exec;/*
 Escreva um algoritmo em Java para determinar se um número A é divisível por um outro número B.
 Esses valores devem ser fornecidos pelo usuário.
 */

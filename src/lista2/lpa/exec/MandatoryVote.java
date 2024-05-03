@@ -1,4 +1,4 @@
-/*
+package lista2.lpa.exec;/*
 Faça um algoritmo em Java que receba a idade de uma pessoa e informe em qual das categorias se enquadra em relação à obrigatoriedade do voto:
 - Sem permissão para votar (0 a 15 anos)
 - Voto facultativo (16 a 17 anos, acima de 65 anos)

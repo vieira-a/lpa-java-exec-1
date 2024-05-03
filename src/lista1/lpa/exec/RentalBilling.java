@@ -1,4 +1,4 @@
-/*
+package lista1.lpa.exec;/*
 Leia a quantidade de fitas que uma locadora de vídeo possui e o valor que ela cobra por cada aluguel, mostrando as informações pedidas a seguir:
 - Sabendo que um terço das fitas são alugadas por mês, exiba o faturamento anual da locadora;
 

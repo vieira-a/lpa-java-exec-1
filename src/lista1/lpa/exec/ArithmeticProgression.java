@@ -1,4 +1,4 @@
-/*
+package lista1.lpa.exec;/*
 Faça um programa em Java que receba o primeiro e o segundo termos de uma Progressão Aritmética e um
 número que represente qual termo da PA o usuário deseja saber. O algoritmo deve calcular o termo
 solicitado pelo usuário e mostrar na tela.

@@ -1,3 +1,5 @@
+package lista1.lpa.exec;
+
 import java.util.Scanner;
 
 public class TimeToSeconds {

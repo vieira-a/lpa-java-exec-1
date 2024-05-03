@@ -1,4 +1,4 @@
-/*
+package lista1.lpa.exec;/*
 Faça um programa em Java que simule um caixa eletrônico para saque. O algoritmo deve receber um valor
 monetário (o valor deve ser recebido como um valor inteiro) e informar quantas notas de R$50,00, R$10,00,
 R$5,00 e R$1,00 devem ser entregues ao usuário usando o mínimo de notas possível.

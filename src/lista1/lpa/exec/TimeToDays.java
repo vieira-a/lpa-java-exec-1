@@ -1,4 +1,4 @@
-/*
+package lista1.lpa.exec;/*
 5) Faça um programa em Java que receba a idade de uma pessoa em anos, meses e dias e informe quantos
 dias aproximadamente ele já viveu.
 */

@@ -1,4 +1,4 @@
-/*
+package lista1.lpa.exec;/*
 Faça um programa em Java que receba as horas de início e fim de uma atividade (expressas em horas, minutos e segundos) e ao final informe o tempo de duração da atividade.
 Dica: transforme as horas de início e fim em segundos, realize a subtração e em seguida volte a transformar em horas, minutos e segundos.
 */

@@ -1,4 +1,4 @@
-/*
+package lista1.lpa.exec;/*
 Faça um programa em Java que receba 3 notas de um aluno e seus respectivos pesos, calcule e informe a
 média ponderada.
 */
